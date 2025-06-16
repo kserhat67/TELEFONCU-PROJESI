@@ -1,0 +1,267 @@
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\Telefoncu.exe.config
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\Telefoncu.exe
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\Telefoncu.pdb
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\Google.Protobuf.dll
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\MySql.Data.dll
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\System.Buffers.dll
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\System.IO.Pipelines.dll
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\System.Memory.dll
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\ZstdSharp.dll
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\Google.Protobuf.pdb
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\Google.Protobuf.xml
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\MySql.Data.xml
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\System.Buffers.xml
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\System.IO.Pipelines.xml
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\System.Memory.xml
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\obj\Debug\Telefoncu.csproj.AssemblyReference.cache
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\obj\Debug\Telefoncu.Form1.resources
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\obj\Debug\Telefoncu.Properties.Resources.resources
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\obj\Debug\Telefoncu.csproj.GenerateResource.cache
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\obj\Debug\Telefoncu.csproj.CoreCompileInputs.cache
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\obj\Debug\Telefoncu.csproj.Up2Date
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\obj\Debug\Telefoncu.exe
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\obj\Debug\Telefoncu.pdb
+C:\Users\kserh\source\repos\Telefoncu\Telefoncu\obj\Debug\Telefoncu.SatisForm.resources
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\Telefoncu.exe.config
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\Telefoncu.exe
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\Telefoncu.pdb
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\Google.Protobuf.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\MySql.Data.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\System.Buffers.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\System.IO.Pipelines.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\System.Memory.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\ZstdSharp.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\Google.Protobuf.pdb
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\Google.Protobuf.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\MySql.Data.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\System.Buffers.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\System.IO.Pipelines.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\System.Memory.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\obj\Debug\Telefoncu.csproj.AssemblyReference.cache
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\obj\Debug\Telefoncu.Form1.resources
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\obj\Debug\Telefoncu.Properties.Resources.resources
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\obj\Debug\Telefoncu.SatisForm.resources
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\obj\Debug\Telefoncu.csproj.GenerateResource.cache
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\obj\Debug\Telefoncu.csproj.CoreCompileInputs.cache
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\obj\Debug\Telefoncu.csproj.Up2Date
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\obj\Debug\Telefoncu.exe
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\Telefoncu\Telefoncu\obj\Debug\Telefoncu.pdb
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\Telefoncu.exe.config
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\Telefoncu.exe
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\Telefoncu.pdb
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\Google.Protobuf.dll
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\MySql.Data.dll
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\System.Buffers.dll
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\System.IO.Pipelines.dll
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\System.Memory.dll
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\ZstdSharp.dll
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\Google.Protobuf.pdb
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\Google.Protobuf.xml
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\MySql.Data.xml
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\System.Buffers.xml
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\System.IO.Pipelines.xml
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\System.Memory.xml
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.csproj.AssemblyReference.cache
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.Form1.resources
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.Properties.Resources.resources
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.SatisForm.resources
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.csproj.GenerateResource.cache
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.csproj.CoreCompileInputs.cache
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.csproj.Up2Date
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.exe
+C:\Users\kserh\OneDrive\Masaüstü\Dealers.Life.2.v1.015\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.pdb
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\Telefoncu.exe.config
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\Telefoncu.exe
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\Telefoncu.pdb
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\Google.Protobuf.dll
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\MySql.Data.dll
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\System.Buffers.dll
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\System.IO.Pipelines.dll
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\System.Memory.dll
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\ZstdSharp.dll
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\Google.Protobuf.pdb
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\Google.Protobuf.xml
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\MySql.Data.xml
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\System.Buffers.xml
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\System.IO.Pipelines.xml
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\System.Memory.xml
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.csproj.AssemblyReference.cache
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.Form1.resources
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.Properties.Resources.resources
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.SatisForm.resources
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.csproj.GenerateResource.cache
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.csproj.CoreCompileInputs.cache
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.csproj.Up2Date
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.exe
+C:\Users\kserh\OneDrive\Resimler\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.pdb
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\Telefoncu.exe.config
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\Telefoncu.exe
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\Telefoncu.pdb
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\Google.Protobuf.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\MySql.Data.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\System.Buffers.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\System.IO.Pipelines.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\System.Memory.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\ZstdSharp.dll
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\Google.Protobuf.pdb
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\Google.Protobuf.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\MySql.Data.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\System.Buffers.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\System.IO.Pipelines.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\System.Memory.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.csproj.AssemblyReference.cache
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.Form1.resources
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.GirisForm.resources
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.Properties.Resources.resources
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.SatisForm.resources
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.csproj.GenerateResource.cache
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.csproj.CoreCompileInputs.cache
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.csproj.Up2Date
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.exe
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.pdb
+C:\Users\kserh\OneDrive\Masaüstü\YEDEK\YEDEKKK\GIZLIYEDEK\Telefoncu\obj\Debug\Telefoncu.KayitForm.resources
+C:\LAST SAVE\SONNN\Telefoncu\obj\Debug\Telefoncu.csproj.AssemblyReference.cache
+C:\LAST SAVE\SONNN\Telefoncu\obj\Debug\Telefoncu.Form1.resources
+C:\LAST SAVE\SONNN\Telefoncu\obj\Debug\Telefoncu.GirisForm.resources
+C:\LAST SAVE\SONNN\Telefoncu\obj\Debug\Telefoncu.KayitForm.resources
+C:\LAST SAVE\SONNN\Telefoncu\obj\Debug\Telefoncu.Properties.Resources.resources
+C:\LAST SAVE\SONNN\Telefoncu\obj\Debug\Telefoncu.SatisForm.resources
+C:\LAST SAVE\SONNN\Telefoncu\obj\Debug\Telefoncu.csproj.GenerateResource.cache
+C:\LAST SAVE\SONNN\Telefoncu\obj\Debug\Telefoncu.csproj.CoreCompileInputs.cache
+C:\LAST SAVE\SONNN\Telefoncu\obj\Debug\Telefoncu.exe
+C:\LAST SAVE\SONNN\Telefoncu\obj\Debug\Telefoncu.pdb
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\Telefoncu.exe.config
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\Telefoncu.exe
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\BouncyCastle.Cryptography.dll
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\Google.Protobuf.dll
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\K4os.Compression.LZ4.dll
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\K4os.Hash.xxHash.dll
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\MySql.Data.dll
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\System.Buffers.dll
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\System.IO.Pipelines.dll
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\System.Memory.dll
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\System.Numerics.Vectors.dll
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\ZstdSharp.dll
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\BouncyCastle.Cryptography.xml
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\Google.Protobuf.pdb
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\Google.Protobuf.xml
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\K4os.Compression.LZ4.xml
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\K4os.Hash.xxHash.xml
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\MySql.Data.xml
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\System.Buffers.xml
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\System.IO.Pipelines.xml
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\System.Memory.xml
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\System.Numerics.Vectors.xml
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\LAST SAVE\SONNN\Telefoncu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\LAST SAVE\SONNN\Telefoncu\obj\Debug\Telefoncu.csproj.Up2Date
